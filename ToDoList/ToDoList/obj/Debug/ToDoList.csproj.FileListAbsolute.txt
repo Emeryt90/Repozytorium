@@ -1,0 +1,13 @@
+C:\Users\tzuro\source\repos\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\tzuro\source\repos\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\tzuro\source\repos\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\tzuro\source\repos\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\tzuro\source\repos\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\tzuro\source\repos\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\tzuro\source\repos\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\tzuro\source\repos\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\tzuro\source\repos\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\tzuro\source\repos\ToDoList\obj\Debug\ToDoList.MainForm.resources
+C:\Users\tzuro\source\repos\ToDoList\obj\Debug\ToDoList.Kontrolki.LoginControl.resources
+C:\Users\tzuro\source\repos\ToDoList\obj\Debug\ToDoList.Kontrolki.RegisterControl.resources
+C:\Users\tzuro\source\repos\ToDoList\obj\Debug\ToDoList.Kontrolki.TasksControl.resources
